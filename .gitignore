@@ -1,0 +1,12 @@
+# Ambiente Virtual
+Venv/
+venv/
+
+# Cache do python
+__pycache__/
+
+# Senhas e tokens
+.env
+
+# Banco de dados
+.db
